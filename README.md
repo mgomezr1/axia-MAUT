@@ -2,7 +2,7 @@
 
 Aplicación web académica para tomar decisiones con la **Teoría de la Utilidad Multiatributo (MAUT)** de Keeney y Raiffa, con modelo aditivo: convierta el desempeño de cada alternativa en una utilidad entre 0 y 1, pondere los criterios y obtenga la utilidad global de cada alternativa.
 
-**Abrir la aplicación:** https://mgomezr1.github.io/axia-maut/
+**Abrir la aplicación:** https://mgomezr1.github.io/axia-MAUT/
 
 No requiere instalación ni registro. Funciona en cualquier navegador moderno, en computador, tableta o teléfono.
 
