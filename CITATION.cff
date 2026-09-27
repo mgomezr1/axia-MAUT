@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si usa este software, cítelo con los datos siguientes."
+title: "Axía MAUT"
+version: "1.0"
+date-released: 2026-09-26
+type: software
+authors:
+  - family-names: "Gómez Rueda"
+    given-names: "Mario Sergio"
+    email: "mgomezr1@gmail.com"
+url: "https://mgomezr1.github.io/axia-maut/"
+abstract: "Aplicación web académica para aplicar la Teoría de la Utilidad Multiatributo con modelo aditivo: funciones de utilidad lineales, exponenciales, por tramos y discretas, agregación ponderada, sensibilidad e informes en Excel y PDF."
+keywords:
+  - MAUT
+  - utilidad multiatributo
+  - decisión multicriterio
+  - análisis de decisiones
+license-url: "https://mgomezr1.github.io/axia-maut/LICENSE.md"
